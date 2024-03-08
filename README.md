@@ -1,3 +1,3 @@
-//cara pake
-$ chmod +x ./Des
-$ ./Des
+//cara pake//
+</br>$ chmod +x ./Des
+</br>$ ./Des
